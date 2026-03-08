@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Anthony Korie**
 
 💻 **Data Analyst | Business Intelligence Analyst | AI & Data Science Specialist**  
-📍 Based in Newcastle, England, ST5 8FB  
-📧 **chukwu.korie@gmail.com** | 📞 +447445290401  
+📍 Based in Newcastle, England 
+📧 **chukwuebuka.korie@ieee.org** | 📞 +447445290401  
 
 ---
 
