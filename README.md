@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Anthony Korie**
 
-💻 **Data Analyst | Business Intelligence Analyst | AI & Data Science Specialist**  
+💻 **AI & Data Science Expert |Digital Solutions | Machine learning**  
 📍 Based in Newcastle, England 
 📧 **chukwuebuka.korie@ieee.org** | 📞 +447445290401  
 
@@ -47,7 +47,7 @@ I have enhanced business intelligence through market research and KPI insights i
 
 ## 💼 Professional Experience
 
-### 📦 **Customer Service Advisor**
+### 📦 **Customer Data Analyst**
 
 _Angard Staffing Royal Mail | UK_ (Oct 2024 – Present)
 
@@ -59,7 +59,7 @@ _Angard Staffing Royal Mail | UK_ (Oct 2024 – Present)
 
 ### 📈 **Data Analyst**
 
-_Wema Bank Plc | Lagos_ (Sep 2022 – Sep 2023)
+_Wema Bank Plc |_ (Sep 2022 – Sep 2023)
 
 - Delivered weekly reports and evaluated project outcomes using data modelling techniques and KPI frameworks to guide business strategies.
 - Utilized SQL, Python, Tableau, and Excel pivot tables to analyze large datasets.
@@ -67,7 +67,7 @@ _Wema Bank Plc | Lagos_ (Sep 2022 – Sep 2023)
 
 ---
 
-### 💼 **Business Intelligence Analyst**
+### 💼 **AI and Data Analyst**
 
 _Zenith Bank Plc | Lagos_ (Apr 2021 – Aug 2022)
 
@@ -82,7 +82,7 @@ _Zenith Bank Plc | Lagos_ (Apr 2021 – Aug 2022)
 🎓 **Master of Science | Artificial Intelligence and Data Science**  
 _Keele University (United Kingdom)_
 
-🎓 **Bachelor of Liberal Studies | Library and Information Science**  
+🎓 **Bachelor of Library Science | Library and Information Science**  
 _Imo State University Owerri (Nigeria)_
 
 🎓 **O Level | West African Examination Council**  
