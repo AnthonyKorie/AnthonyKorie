@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Anthony Korie**
 
-💻 **AI & Data Science Expert |Digital Solutions | Machine learning**  
+💻 **AI & Data Science Expert | Digital Solutions | Machine learning**  
 📍 Based in Newcastle, England 
 📧 **chukwuebuka.korie@ieee.org** | 📞 +447445290401  
 
@@ -49,7 +49,7 @@ I have enhanced business intelligence through market research and KPI insights i
 
 ### 📦 **Customer Data Analyst**
 
-_Angard Staffing Royal Mail | UK_ (Oct 2024 – Present)
+_Royal Mail Group | UK_ (Oct 2024 – Present)
 
 - Performed data entry and analysis of customer interactions and service inquiries.
 - Identified trends that improved service delivery, resulting in a 15% increase in customer satisfaction.
